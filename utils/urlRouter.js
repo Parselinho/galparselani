@@ -20,13 +20,32 @@ function initApp() {
   handleHashChange(); // Manually trigger routing on page load
 }
 
+// function handleNavClick(e) {
+//   const { target } = e;
+//   if (target.matches("nav a")) {
+//     e.preventDefault();
+//     const href = target.getAttribute("href");
+//     if (href) {
+//       // Update the hash based on the href
+//       window.location.hash = href;
+//     }
+//   }
+// }
+
 function handleNavClick(e) {
   const { target } = e;
   if (target.matches("nav a")) {
-    e.preventDefault();
     const href = target.getAttribute("href");
+
+    // Check if the link is external
+    if (href.startsWith("http://") || href.startsWith("https://")) {
+      // It's an external link, so let the browser handle it normally
+      return;
+    }
+
+    // It's an internal link, so handle it with custom logic
+    e.preventDefault();
     if (href) {
-      // Update the hash based on the href
       window.location.hash = href;
     }
   }
