@@ -11,6 +11,7 @@ import PhraseHunter from "../src/components/projects/Phrase.js";
 import Circle from "../src/components/projects/Circle.js";
 import Gallery from "../src/components/projects/Gallery.js";
 import WebApp from "../src/components/projects/Webapp.js";
+import Auth from "../src/components/projects/AuthLibrary.js";
 
 document.addEventListener("DOMContentLoaded", initApp);
 
@@ -64,6 +65,7 @@ const pages = {
   "#/circle": Circle,
   "#/gallery": Gallery,
   "#/webapp": WebApp,
+  "#/auth-library": Auth,
 };
 
 function handleHashChange() {

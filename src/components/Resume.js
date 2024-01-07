@@ -1,4 +1,4 @@
-import image from "../../public/images/aqua2.png";
+import image from "../../public/images/profile2.jpg";
 import treehouseSvg from "../../public/svg/treehouse.svg";
 import udemySvg from "../../public/svg/udemy-3.svg";
 
@@ -15,62 +15,40 @@ class Resume {
           </figure>
 
             <h2>Gal Parselani Profile Summary</h2>
-            <p>Innovative and solutions-driven Full-Stack Developer with expertise in JavaScript, HTML, CSS, React, Node.js, Express, MongoDB, and SQL. Proven abillity to leverage advanced studies in front-end and full stack development to deliver impactful projects. Knows for exceptional problem-solving skills and a keen eye for technological advancements.</p>
+            <p>Experienced in Sales Operations and Lead Routing, I excel in optimizing lead management systems within the tech industry, enhancing efficiency and sales conversion rates. Alongside my professional role, I've pursued a passion for full-stack development over the past 1.5 years, enriching my technical and problem-solving skills. This unique combination of strategic lead management and technical proficiency drives my approach to creating innovative solutions in fast-paced environments.</p>
           </section>
 
           <section class="resumeExperience">
-            <h3>Professional Experience</h3>
-            <h5>360 Affiliate LTD, Tel-Aviv — System Manager and Team Leader</h5>
-            <p>November 2022 - Present</p>
+            <h3>Professional Experience:</h3>
+            <h4>🚀 Sales Operations Specialist & Lead Routing Executive</h4>
+            <div class='resumeTime'>
+              <h5>360 Affiliate LTD, Tel-Aviv</h5>
+              <p class='year'>March 2018 - Present</p>
+            </div>
+            <p>In my role at a leading crypto-currency trading firm, I have been pivotal in orchestrating and refining the lead management and sales operation strategies. My contributions have been instrumental in scaling the company's lead handling capacities and optimizing conversion rates, directly impacting our market presence and profitability.</p>
+            <p><b>Key Responsibilities:</b></p>
             <ul>
                 <li>    
-                    Orchestrated traffic navigation using statistical analysis, enhancing conversion rates.
+                    <b>Strategic Lead Management:</b> Spearheaded the optimization of lead distribution, managing a complex system handling thousands of leads daily. Ensured leads were effectively routed to the most suitable call centers, enhancing conversion opportunities.
                 </li>
                 <li>    
-                    Led a high-performance team to achieve ambitious goals based on data-driven insights.
+                    <b>Data-Driven Decision Making:</b> Utilized advanced analytics to monitor lead traffic and conversion rates across diverse geographic markets. My insights and strategies led to substantial improvements in operational efficiency and sales results.
                 </li>
                 <li>    
-                    Implemented efficient systems and workflows, resulting in a significant increase in leads.
+                    <b>Market Analysis and Growth Strategy:</b> Identified key market trends and potential growth areas. Developed and implemented targeted strategies to boost company performance in underperforming regions, leading to significant increases in customer acquisition.
                 </li>
                 <li>    
-                    Fostered an innovative technological culture, keeping the team abreast of industry advancements.
+                    <b>Sales Operations Optimization:</b> Collaborated with sales teams to refine lead distribution strategies within the internal system. Adapted lead allocation in real-time based on performance data, ensuring optimal engagement and conversion rates.
+                </li>
+                <li>    
+                    <b>Demand and Supply Management:</b> Addressed gaps where demand exceeded supply by guiding sales teams to acquire additional customers and call centers, particularly in high-potential markets.
                 </li>
             </ul>
-                <div class="border"></div>
-            <h5>Tomer & Alon Marketing and Publicity, Ramat Gan - System Manager and Team Leader</h5>
-            <p>March 2019 - November 2022</p>
-            <ul>
-                <li>
-                The company operates in the forex and bitcoin industry, specializing in connecting affiliates with brokers.
-                </li>
-                <li>
-                My work involved handling operations across various countries, each with several affiliates and brands. My responsibilities included analyzing statistics and adjusting the system accordingly. For instance, if Brand 'A' performed exceptionally in the United Kingdom with Affiliate 'A' between 12:00-17:00, I would prioritize it in the system, followed by the arrangement of subsequent brands. This process was replicated for each country and affiliate based on specific regional data.
-                </li>
-                <li>
-                Success Example: When I joined the company, there were only 0-2 deposits in Hungary per month. However, within four months, we achieved over 200 deposits during peak months, with an average of 50 deposits in subsequent months.
-                </li>
-                <li>
-                Another Example: Initially, when I suggested exploring brand opportunities in India, my manager was skeptical, citing a lack of prior deposits in the region and extensive industry experience. Despite this, I insisted on the potential in the Indian market. As a result, we identified a brand that consistently generated an average of 70 deposits per month
-                </li>
-                <li>
-                Additionally, I successfully managed an average of 13,000 leads per day single-handedly. Currently, this volume of work is distributed among three people, each handling 3-4K leads per day.
-                </li>
-                <li>
-                Conducted comprehensive data analysis, extracting actionable insights to guide strategic decision-making.
-                </li>
-                <li>
-                Utilized advanced statistical techniques to interpret complex datasets, enabling the identification of trends and patterns.
-                </li>
-                <li>
-                Developed and maintained dashboards and reports for executive teams, providing real-time visibility into key performance indicators.
-                </li>
-                <li>
-                Collaborated with cross-functional teams to define data requirements and ensure accurate and relevant reporting.
-                </li>
-                <li>
-                Implemented data quality measures, contributing to a culture of accuracy and reliability in data-driven decision-making.
-                </li>
-            </ul>
+            <p><b>Achievements:</b><br>Successfully managed an increase in lead handling capacity from around 1,500 leads per day to over 13,000, while also growing deposit conversions from approximately 110 to over 400 per day.
+            Played a key role in expanding the company’s footprint in strategic markets, including a significant uplift in daily deposits in previously underperforming countries like Japan.
+            Recognized for implementing innovative strategies and technological solutions that aligned with the rapidly evolving crypto-currency market, ensuring the company's competitive edge.
+            </p>
+            <p><b>Summary:</b><br>My tenure at 360 Affiliate LTD has been marked by a relentless pursuit of excellence in lead management and sales operations. I have driven significant improvements in operational efficiency and market penetration, proving myself as a vital asset in navigating the complexities of the crypto-currency trading sector.</p>
           </section>
           </div>
           <div class="bordersolid"></div>
@@ -108,14 +86,18 @@ class Resume {
             <div class="border"></div>
 
             <div class='logoAndHeading'>
-            <h3>Skills</h3>
+            <h3 class='skillsHeading'>Skills</h3>
             </div>
-            <ul>
-                <li><b>HTML, CSS, JavaScript, nodeJS, express, mongoDB, SQL, ReactJS</b></li>
-                <li>Proficient in Full-Stack Development, with a focus on JavaScript technologies.</li>
-                <li>Strong analytical and problem-solving capabilities.</li>
-                <li>Effective under pressure with a knack for efficient task execution.</li>
-                <li>Excellent team leadership and project management skills.</li>
+            <ul class='skills'>
+                <li><b>Strategic Lead Management & Optimization:</b> Highly skilled in managing and optimizing complex lead distribution systems. Proficient in maximizing efficiency and improving conversion rates across diverse markets.</li>
+                <li><b>Data Analysis & Strategic Insight Generation:</b> Expertise in analyzing large datasets to derive actionable insights, significantly impacting lead routing strategies and sales performance.</li>
+                <li><b>Operational Efficiency Enhancement:</b> Adept at identifying and addressing inefficiencies within lead management systems, implementing solutions that boost overall performance and productivity.</li>
+                <li><b>Adaptability & Continuous Learning:</b> Demonstrates flexibility in adapting to industry trends and new technologies, with a dedicated focus on continuous improvement in lead management and data analysis.</li>
+                <li><b>Innovative Problem-Solving:</b> Renowned for exceptional problem-solving abilities, consistently delivering innovative and efficient solutions to complex challenges.  Excel at synthesizing diverse information to find unique solutions.</li>
+                <li><b>Technical Reporting & Data Visualization:</b> Proficient in crafting detailed reports and visualizations that effectively communicate complex data and insights to varied audiences.</li>
+                <li><b>Collaboration & Communication:</b> Strong communicator capable of bridging the gap between technical teams and non-technical stakeholders, ensuring seamless information flow and collaboration.</li>
+                <li><b>Project Management & Strategic Execution:</b> Experienced in leading projects that enhance lead management systems, meeting critical deadlines and achieving strategic objectives.</li>
+                <li class='last-item'><b>Technical Proficiency:</b> Solid foundation in database management and analysis with tools like SQL and MongoDB. Familiarity with programming languages and frameworks such as JavaScript, React, Next.js, TypeScript, Node.js, and Express, contributing to a comprehensive understanding of the technological aspects of lead systems.</li>
             </ul>
             <div class="border"></div>
 
@@ -133,15 +115,18 @@ class Resume {
 
             
             <h3>Volunteering</h3>
-            <p>Active volunteer at Chabad House, Hatikva Neighborhood. Engaged in community services initiatives including meal preparation and distribution in Herzliya. also helped distribution in Rishon Leziyon at "Lichiot Bekavod"</p>
+            <p>Dedicated volunteer at Chabad House in Hatikva neighborhood, contributing to impactful initiatives such as preparing meals, distributing food at Chabad Herzliya, and Lihiyot-Bekavod in Rishon Lezion.</p>
             <div class="border"></div>
 
         </section>
 
           <section class="resumeFinal">
             <h3>Seek Opportunities</h3>
-            <p>As an adept Full-Stack Developer, I am looking for opportunities to leverage my comprehensive knowledge in both front-end and back-end technologies. Skilled in HTML, CSS, JavaScript, alongside server-side language nodeJS, express. and database management like mongoDB and SQL, I aim to contribute to robust and scalable web applications. I'm eager to join a dynamic team that values innovation and offers growth opportunities in full-stack developmet</p>
-          <section>
+              <p>As a seasoned professional in Sales Operations and Lead Routing, my career journey has been marked by a steadfast dedication to mastering lead management and optimizing sales strategies. In the ever-evolving tech industry, I've excelled in roles that demanded a deep understanding of lead distribution systems, sales operations analysis, and customer acquisition strategies. My ability to dissect and manage lead data across diverse dimensions, like geographical segmentation and market trends, has been a cornerstone of my success.
+              In my capacity as a Sales Operations Specialist & Lead Routing Executive, I have showcased a consistent ability to not only efficiently manage and direct lead traffic but also to guide teams in crafting and implementing effective strategies for market expansion and customer engagement. My knack for refining operational systems and integrating technological advancements has solidified my role as a critical asset to organizations that value data-driven, strategic approaches to sales and lead management.
+              I am now looking to bring my wealth of experience and strategic insights to a new challenge. I am excited about opportunities to leverage my skills in lead management, strategic planning, and collaborative leadership to drive sales excellence and operational efficiency. My goal is to join a forward-thinking organization where innovative, data-informed methods are at the forefront of business growth and customer acquisition strategies.
+              </p>
+            </section>
 
           </div>
         `;

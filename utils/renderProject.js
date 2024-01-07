@@ -19,19 +19,20 @@ const renderProject = (project) => {
       .join("");
   }
 
-  const isfrontList = project.frontendList;
+  const isfrontList = project.frontendList && project.frontendList.length > 0;
   let frontList;
   if (!isfrontList) {
     frontList = `<li>
         Used only BackEnd tech<p></p>
       </li>`;
-  }
-  frontList = project.frontendList
-    .map(
-      (item) => `
+  } else {
+    frontList = project.frontendList
+      .map(
+        (item) => `
     <li>${item.listTitle}<p>${item.listDescription}</p></li>`
-    )
-    .join("");
+      )
+      .join("");
+  }
 
   return `
        <div class="heroContainer">

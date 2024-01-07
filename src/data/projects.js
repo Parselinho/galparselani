@@ -6,6 +6,7 @@ import phrase from "../../public/images/phrase.png";
 import circle from "../../public/images/circle.png";
 import gallery from "../../public/images/gallery.png";
 import webapp from "../../public/images/webapp.png";
+import auth from "../../public/images/auth.png";
 
 const projects = [
   {
@@ -210,6 +211,40 @@ const projects = [
       {
         listTitle: "Advanced Web Application Dashboard Development",
         listDescription: `This project showcases my ability to create a comprehensive web application dashboard with multiple interactive features. I implemented a JavaScript-based alert system for dynamic notifications and integrated Chart.js for diverse data visualizations, including line, bar, and doughnut charts. These elements provide valuable insights and enhance user interaction. The project also features an autocomplete functionality for efficient user messaging, demonstrating my skill in enhancing user experience through JavaScript. The responsive design was meticulously crafted using CSS grid and flexbox layouts, ensuring seamless adaptability across various devices. This dashboard project exemplifies my expertise in front-end development, emphasizing interactive design and data presentation.`,
+      },
+    ],
+  },
+  {
+    title: "Auth Lirbary",
+    description:
+      "AuthenticRealm is a comprehensive solution for handling user authentication and authorization in Node.js applications. It simplifies the process of implementing user registration, login, email verification, password reset, and role-based access control, making it ideal for rapid development.",
+    url: "https://www.npmjs.com/package/authenticrealm",
+    github: "https://github.com/Parselinho/authenticrealm",
+    image: `${auth}`,
+    backendList: [
+      {
+        listTitle: "JWT-Based Authentication",
+        listDescription: `Utilizing JSON Web Tokens (JWT), AuthenticRealm ensures secure and efficient user authentication. This method enables stateless authentication, making it ideal for scalable applications. JWTs are used for both access and refresh tokens, providing a reliable mechanism for user sessions and secure access contro`,
+      },
+      {
+        listTitle: "Custom Error Handling",
+        listDescription: `AuthenticRealm incorporates a robust custom error handling system, allowing for clear and concise feedback on various authentication and authorization issues. This feature enhances debugging and user experience, ensuring that errors are communicated effectively`,
+      },
+      {
+        listTitle: "Email Verification & Password Reset",
+        listDescription: `Incorporating advanced functionalities such as email verification and password reset, AuthenticRealm enhances security and user management. This feature is crucial for verifying user identity and providing secure ways to recover accounts, thereby boosting the overall security posture of the application.`,
+      },
+      {
+        listTitle: "Role-Based Access Control",
+        listDescription: `AuthenticRealm implements Role-Based Access Control (RBAC) to manage user permissions effectively. This approach allows for fine-grained control over user capabilities, ensuring that access to resources is limited based on user roles, thereby enhancing application security and operational efficiency.`,
+      },
+      {
+        listTitle: "Middleware for Session Transactions",
+        listDescription: `To ensure data consistency, AuthenticRealm uses middleware for managing session transactions. This approach is crucial for maintaining database integrity, especially in complex operations involving user authentication and authorization processes.`,
+      },
+      {
+        listTitle: "Scalable User Model with Mongoose",
+        listDescription: `Leveraging Mongoose for user model management, AuthenticRealm offers a scalable and efficient way to handle user data. The schema-based approach of Mongoose aids in structuring user data effectively, enhancing both data integrity and query performance.`,
       },
     ],
   },
