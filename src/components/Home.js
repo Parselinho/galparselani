@@ -102,8 +102,7 @@ class Home {
     <div class="homeContainer">
     <h2>Home Page</h2>
     <div class="homeDiv">
-    <p>In my professional journey, I've specialized in Sales Operations and Lead Routing, focusing on enhancing lead management systems within the tech industry to boost efficiency and sales conversion rates. My role as a Sales Operations Specialist & Lead Routing Executive has involved strategically managing and optimizing complex sales processes, contributing significantly to the growth and efficiency of the operations.
-    Parallel to my career, I've cultivated a deep interest in Full Stack Web Development over the past 1.5 years. This pursuit has seen me delve into technologies such as JavaScript, HTML, CSS, React, Node.js, Express, MongoDB, and SQL. My dedication to mastering these skills has led to the development of various engaging and functional web applications, further honing my technical abilities.</p>
+    <p>In my professional journey, Experienced in Sales Operations and CRM analysis, I excel in optimizing CRM and lead management systems within the tech industry, enhancing efficiency and sales conversion rates. Alongside my professional role, I've pursued a passion for full-stack development over the past 1.5 years, enriching my technical and problem-solving skills. This unique combination of strategic CRM management, sales operations expertise, and technical proficiency drives my approach to creating innovative solutions in fast-paced environments.</p>
     <aside>
           <p>
             <b>**</b> I'd like to extend my gratitude to

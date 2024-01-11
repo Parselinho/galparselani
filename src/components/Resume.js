@@ -15,12 +15,12 @@ class Resume {
           </figure>
 
             <h2>Gal Parselani Profile Summary</h2>
-            <p>Experienced in Sales Operations and Lead Routing, I excel in optimizing lead management systems within the tech industry, enhancing efficiency and sales conversion rates. Alongside my professional role, I've pursued a passion for full-stack development over the past 1.5 years, enriching my technical and problem-solving skills. This unique combination of strategic lead management and technical proficiency drives my approach to creating innovative solutions in fast-paced environments.</p>
+            <p>Experienced in Sales Operations and CRM analysis, I excel in optimizing CRM and lead management systems within the tech industry, enhancing efficiency and sales conversion rates. Alongside my professional role, I've pursued a passion for full-stack development over the past 1.5 years, enriching my technical and problem-solving skills. This unique combination of strategic CRM management, sales operations expertise, and technical proficiency drives my approach to creating innovative solutions in fast-paced environments.</p>
           </section>
 
           <section class="resumeExperience">
             <h3>Professional Experience:</h3>
-            <h4>🚀 Sales Operations Specialist & Lead Routing Executive</h4>
+            <h4>🚀 CRM Analyst & Sales Operations Analyst</h4>
             <div class='resumeTime'>
               <h5>360 Affiliate LTD, Tel-Aviv</h5>
               <p class='year'>March 2018 - Present</p>
@@ -44,9 +44,10 @@ class Resume {
                     <b>Demand and Supply Management:</b> Addressed gaps where demand exceeded supply by guiding sales teams to acquire additional customers and call centers, particularly in high-potential markets.
                 </li>
             </ul>
-            <p><b>Achievements:</b><br>Successfully managed an increase in lead handling capacity from around 1,500 leads per day to over 13,000, while also growing deposit conversions from approximately 110 to over 400 per day.
-            Played a key role in expanding the company’s footprint in strategic markets, including a significant uplift in daily deposits in previously underperforming countries like Japan.
-            Recognized for implementing innovative strategies and technological solutions that aligned with the rapidly evolving crypto-currency market, ensuring the company's competitive edge.
+            <p><b>Achievements:</b><br>Successfully managed an increase in lead handling capacity by approximately 700%.
+            Achieved a growth in deposit conversions by about 300%.
+            Played a pivotal role in expanding the company’s reach in strategic markets, contributing to a substantial increase in daily deposits, notably in previously underperforming regions.
+            Recognized for implementing innovative strategies and technological solutions that kept pace with the rapidly evolving crypto-currency market, bolstering the company's competitive edge.            
             </p>
             <p><b>Summary:</b><br>My tenure at 360 Affiliate LTD has been marked by a relentless pursuit of excellence in lead management and sales operations. I have driven significant improvements in operational efficiency and market penetration, proving myself as a vital asset in navigating the complexities of the crypto-currency trading sector.</p>
           </section>
@@ -122,9 +123,14 @@ class Resume {
 
           <section class="resumeFinal">
             <h3>Seek Opportunities</h3>
-              <p>As a seasoned professional in Sales Operations and Lead Routing, my career journey has been marked by a steadfast dedication to mastering lead management and optimizing sales strategies. In the ever-evolving tech industry, I've excelled in roles that demanded a deep understanding of lead distribution systems, sales operations analysis, and customer acquisition strategies. My ability to dissect and manage lead data across diverse dimensions, like geographical segmentation and market trends, has been a cornerstone of my success.
-              In my capacity as a Sales Operations Specialist & Lead Routing Executive, I have showcased a consistent ability to not only efficiently manage and direct lead traffic but also to guide teams in crafting and implementing effective strategies for market expansion and customer engagement. My knack for refining operational systems and integrating technological advancements has solidified my role as a critical asset to organizations that value data-driven, strategic approaches to sales and lead management.
-              I am now looking to bring my wealth of experience and strategic insights to a new challenge. I am excited about opportunities to leverage my skills in lead management, strategic planning, and collaborative leadership to drive sales excellence and operational efficiency. My goal is to join a forward-thinking organization where innovative, data-informed methods are at the forefront of business growth and customer acquisition strategies.
+              <p>As a seasoned professional in Sales Operations, with a specific focus on CRM and data-driven lead management, my career journey has been characterized by a steadfast dedication to mastering CRM analytics and optimizing sales strategies. In the ever-evolving tech industry, I've excelled in roles that demanded a deep understanding of CRM systems, lead distribution, sales operations analysis, and customer acquisition strategies. My ability to dissect and manage lead data across diverse dimensions, such as geographical segmentation and market trends, has been a cornerstone of my success.
+
+
+              In my capacity as a CRM Analyst & Sales Operations Analyst, I have consistently demonstrated the ability to not only efficiently manage and direct lead traffic but also to guide teams in formulating and executing effective strategies for market expansion and customer engagement. My expertise in refining CRM processes and integrating technological advancements has solidified my role as a critical asset to organizations that value data-driven, strategic approaches to sales and CRM management.
+              
+              
+              I am now eager to bring my wealth of experience and strategic insights to a new challenge. I am excited about opportunities to leverage my skills in CRM analytics, lead management, strategic planning, and collaborative leadership to drive sales excellence and operational efficiency. My goal is to join a forward-thinking organization where innovative, data-informed methods are at the forefront of business growth and customer acquisition strategies.
+              
               </p>
             </section>
 
